@@ -1,6 +1,4 @@
-<img width="315" height="690" alt="Ekran görüntüsü 2026-04-20 225831" src="https://github.com/user-attachments/assets/1499a549-5e5b-4e07-938e-03a485de81a6" />
 <img width="313" height="690" alt="Ekran görüntüsü 2026-04-20 225943" src="https://github.com/user-attachments/assets/8a540840-03c7-48e8-aeff-6fc2bc883d67" />
-
 
 
 # Mini Katalog Uygulamasi
