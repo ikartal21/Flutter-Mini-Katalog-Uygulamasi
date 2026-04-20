@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "category": "Egitim",
+    "title": " 9. Sınıf Matematik Kitabi",
+    "description": " Sonuç Yayınları 9. Sınıf Matematik Kitabı",
+    "price": 349.90,
+    "rating": 4.7,
+    "image": "assets/images/matematik_kitabi.jfif"
+  },
+  {
+    "id": 2,
+    "category": "Teknoloji",
+    "title": "Xiaomi Mi10T Pro Akıllı Telefon",
+    "description": "Xiaomi Mi10T Pro 5G 256 GB.",
+    "price": 8999.00,
+    "rating": 4.5,
+    "image": "assets/images/telefon.avif"
+  },
+  {
+    "id": 3,
+    "category": "Kisisel Bakim",
+    "title": "Yüz Kremi",
+    "description": "Neutrogena Çok Kuru Ciltler İçin Besleyici Bakım Kremi 300 ml",
+    "price": 259.50,
+    "rating": 4.3,
+    "image": "assets/images/krem.jfif"
+  },
+  {
+    "id": 4,
+    "category": "Aksesuar",
+    "title": "Casio Erkek Saat",
+    "description": "Casio Erkek Saat",
+    "price": 12449.99,
+    "rating": 4.9,
+    "image": "assets/images/erkek_saat.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Teknoloji",
+    "title": "IPhone 17 Pro Akıllı Telefon",
+    "description": "IPhone 17 Pro 256 GB",
+    "price": 95999.99,
+    "rating": 5.0,
+    "image": "assets/images/iphone17pro.jfif"
+  },
+  {
+    "id": 6,
+    "category": "Kisisel Bakim",
+    "title": "Elseve Mucizevi Yağ Besleyici Bakım Şampuanı 300 Ml",
+    "description": "6 değerli çiçek özü yağı ile zenginleştirilmiş hafif ve ince formülü sayesinde saçı besler. Yağlı his bırakmayan dokusu saçı ağırlaştırmaz. Her saç tipine uygun yapısı ile saça yumuşaklık ve parlaklık kazandırırken, şekillendirmeyi kolaylaştırır.",
+    "price": 200.00,
+    "rating": 4.5,
+    "image": "assets/images/sampuan.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Teknoloji",
+    "title": "Bilgisayar",
+    "description": "500 GB SSD, 16 GB RAM, Intel Core i7 İşlemci",
+    "price": 52249.99,
+    "rating": 4.1,
+    "image": "assets/images/bilgisayar.jpg"
+  }
+
+]
